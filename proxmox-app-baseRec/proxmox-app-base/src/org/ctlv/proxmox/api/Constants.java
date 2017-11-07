@@ -2,8 +2,8 @@ package org.ctlv.proxmox.api;
 
 public class Constants {
 	
-	public static String USER_NAME = "elabbadi";
-	public static String PASS_WORD = "H-ENBGAv";
+	public static String USER_NAME = "";
+	public static String PASS_WORD = "";
 	
 	public static String HOST = "srv-px5.insa-toulouse.fr";
 	public static String REALM = "Ldap-INSA";
