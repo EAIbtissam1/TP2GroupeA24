@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="proxmox-app-base/src"/>
+	<classpathentry kind="lib" path="proxmox-app-base/lib/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="proxmox-app-base/lib/commons-httpclient-contrib.jar"/>
+	<classpathentry kind="lib" path="proxmox-app-base/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="proxmox-app-base/lib/httpclient-4.1.3.jar"/>
+	<classpathentry kind="lib" path="proxmox-app-base/lib/httpclient-cache-4.1.3.jar"/>
+	<classpathentry kind="lib" path="proxmox-app-base/lib/httpcore-4.1.4.jar"/>
+	<classpathentry kind="lib" path="proxmox-app-base/lib/httpmime-4.1.3.jar"/>
+	<classpathentry kind="lib" path="proxmox-app-base/lib/json.jar"/>
+	<classpathentry kind="output" path="proxmox-app-base/bin"/>
+</classpath>
